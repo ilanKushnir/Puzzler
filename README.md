@@ -11,7 +11,7 @@ Puzzler is a part of Udacity's VR nanodegree. In this project I've learned to de
 
 The project is a great success thanks to the people that were always happy to test it and to the developers that went early and often in the iteration process. Each iteration brought me to many new decisions to take and each one made the project a better experience.
 
-<div style="text-align:center">
+<div align="center">
 
 [![Game Preview](readmeGraphics/1.png)](https://www.youtube.com/watch?v=4Gv-dRwF3UQ)
 
@@ -37,8 +37,10 @@ Noa is a married young mother with two kids, she works a lot and when she get ho
 
 ## Sketches & Ergonomics
 
-<div style="text-align:center">
+<div align="center">
+
 ![Sketch](readmeGraphics/4.png "Sketch")
+
 </div>
 
 After realizing the main goal of the project I started to sketch the main scene. I took into consideration many ergonomics aspects, I placed the main objects in front of the user so he won't search for them and decided to made the movement as slow as possible to prevent sim sickness. In the sketches I drew the start ui, the end ui, the dungeon and the orbs arrangement. That helped me make some very important decisions before starting the project.
@@ -49,10 +51,12 @@ After realizing the main goal of the project I started to sketch the main scene.
 
 After sketching the scene and having the Udacity's prefabs the rest was easy. First, I decided to make the users a bit claustrophobic so I made the dungeon relatively small and the door short so that the sharp ends will nearly touch the "player's head". Then I've arranged everything in place as was planned in the sketch. I've added some lighting and tried to make the scene scary, to make the users want to solve the puzzle and get out of the dungeon. Finally I've added the UIs in the right places and the game logic, and finally was ready for first user test.
 
-<div style="text-align:center">
+<div align="center">
+
 ![Scene 1](readmeGraphics/5.png "Scene 1")
 
 ![Unity](readmeGraphics/6.png "Unity")
+
 </div>
 
 ***
@@ -65,15 +69,17 @@ The great moment have come and finally I could test the experince I've designed 
 2. The second user test made me understand that the mood is not scary. So I made the scene a bit darker and added a skeleton in the scene. Finally I've added the sounds and that made all the difference, now it is a really scary dungeon.
 3. In my third and last user test I realized that people that have no VR experience didn't understand that they have to click on the orbs — I fixed it by making another orb material for the hovering and I made it 50% white compared to the default, to make it not fully clicked. The second conclusion was to make the movement linear and fast, because some people who are more sensitive got sim sickness.
 
-<div style="text-align:center">
+<div align="center">
+
 ![Cardboard](readmeGraphics/7.png "Cardboard")
+
 </div>
 
 ***
 
 ## Breakdown of Final Piece
 
-<div style="text-align:center">
+<div align="center">
 
 ![screenshot4](readmeGraphics/8.png "screenshot4")
 
