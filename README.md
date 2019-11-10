@@ -12,9 +12,11 @@ Puzzler is a part of Udacity's VR nanodegree. In this project I've learned to de
 The project is a great success thanks to the people that were always happy to test it and to the developers that went early and often in the iteration process. Each iteration brought me to many new decisions to take and each one made the project a better experience.
 
 <div style="text-align:center">
+
 [![Game Preview](readmeGraphics/1.png)](https://www.youtube.com/watch?v=4Gv-dRwF3UQ)
 
 ![screenshot 1](readmeGraphics/2.png "Screenshot 1")
+
 </div>
 
 # The process
@@ -72,10 +74,15 @@ The great moment have come and finally I could test the experince I've designed 
 ## Breakdown of Final Piece
 
 <div style="text-align:center">
+
 ![screenshot4](readmeGraphics/8.png "screenshot4")
+
 ![screenshot5](readmeGraphics/9.png "screenshot5")
+
 ![screenshot6](readmeGraphics/10.png "screenshot6")
+
 ![screenshot7](readmeGraphics/11.png "screenshot7")
+
 </div>
 
 ***
