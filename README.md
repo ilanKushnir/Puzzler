@@ -39,7 +39,7 @@ Noa is a married young mother with two kids, she works a lot and when she get ho
 
 <div align="center">
 
-![Sketch](readmeGraphics/4.png "Sketch")
+![Sketch](readmeGraphics/4.jpeg "Sketch")
 
 </div>
 
@@ -71,7 +71,7 @@ The great moment have come and finally I could test the experince I've designed 
 
 <div align="center">
 
-![Cardboard](readmeGraphics/7.png "Cardboard")
+![Cardboard](readmeGraphics/7.jpeg "Cardboard")
 
 </div>
 
